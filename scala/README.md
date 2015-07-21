@@ -44,7 +44,7 @@ Preference -> Package Settings -> ScalaFormat -> Settings - User から
   // java の exe ファイルのパス
   "java_executable":"C:\\Program Files\\Java\\jdk1.7.0_25\\jre\\bin\\java.exe",
   // formatterPreferences.properties を json にしたもの
-  "ScalaFormat":{
+  "scalariform":{
     "alignParameters":true,
     "formatXml":false,
     "preserveDanglingCloseParenthesis":false,
